@@ -47,10 +47,9 @@ As **Willkommensklassen** (Basel-Stadt) e **Integrationsklassen** (Basel-Landsch
 
 |                        | 1º Trimestre | 2º Trimestre | 3º Trimestre | 4º Trimestre |
 | :--------------------- | :----------- | :----------- | :----------- | :----------- |
-| **Basel-Stadt**        | 🟨            | 🟧            | ��            | 🟩            |
-| **Basel-Landschaft**   | 🟨            | ��            | 🟧            | 🟧            |
+| **Basel-Stadt**        | 55-65 %            |  65-75 %            |  65-75 %            | ≥ 75 %            |
+| **Basel-Landschaft**   | 55-65 %            | 55-65 %            |  65-75 %            |  65-75 %            |
 
-➔ Legenda: �� ≥ 75 % de transição | 🟧 65-75 % | 🟨 55-65 %
 O calor relativo mostra que Basel-Stadt historicamente acelera a integração, mas ambas as regiões convergem ao final do primeiro ano.
 
 ### 4.3 Acompanhamento Psicossocial e Atividades Extracurriculares
